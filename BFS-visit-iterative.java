@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-import java.util.*;
-
-=======
 import java.util.*; // i changed something 
->>>>>>> 48fffa0 (BFS and DFS iterative implementations added.)
 class Graph {
 
     private int n; // nbr of vertices
